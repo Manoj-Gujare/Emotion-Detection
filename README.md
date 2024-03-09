@@ -10,7 +10,8 @@ This project implements an Emotion Detection system using a Convolutional Neural
 - NumPy
 
 ## Dataset
-The CNN model is trained on the FER2013 dataset, which consists of 35,887 grayscale images of faces labeled with seven different emotions. The dataset is preprocessed and split into training and testing sets.
+The CNN model is trained on the FER2013 dataset, which consists of 35,887 grayscale images of faces labeled with seven different emotions. The dataset is preprocessed and split into training and testing sets.<br>
+Download dataset from here: https://drive.google.com/file/d/1pYMQ0R5IcMUJ87HIiqjlKf-thPg-Beow/view?usp=sharing
 
 ## Model Training
 - The CNN model architecture consists of multiple Conv2D and MaxPooling2D layers, followed by Dropout layers to prevent overfitting.
